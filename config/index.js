@@ -28,7 +28,7 @@ export const config = {
    *   }, 
    * ]
    */
-  USERS: [oN_1c5lWtokb03GcdCxAnp3y7YcI]
+  USERS: [oN_1c5lWtokb03GcdCxAnp3y7YcI
     {
       // 想要发送的人的名字
       name: "老婆",
